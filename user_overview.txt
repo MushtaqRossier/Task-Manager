@@ -1,0 +1,9 @@
+Total number of registered users = 4
+Total number of tasks = 5
+
+Mushtaq: Percentage of tasks assigned = 20.0%, Percentage of completed tasks = 0.0%, Percentage of incompleted tasks = 20.0%, Percentage of tasks that are incomplete and overdue = 0.0
+
+Hishaam: Percentage of tasks assigned = 40.0%, Percentage of completed tasks = 20.0%, Percentage of incompleted tasks = 20.0%, Percentage of tasks that are incomplete and overdue = 0.0
+
+Maurice: Percentage of tasks assigned = 20.0%, Percentage of completed tasks = 0.0%, Percentage of incompleted tasks = 20.0%, Percentage of tasks that are incomplete and overdue = 0.0
+

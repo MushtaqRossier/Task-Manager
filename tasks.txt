@@ -1,0 +1,5 @@
+Mushtaq, Stock count, Count the total stock at the end of the day, 2020-02-10, 2020-02-20, No
+Hishaam, Packaging, Pack the stock accordingly, 2020-02-10, 2020-02-20, Yes
+Maurice, Clean shoes, Clean the shoes nice and clean, 2020-02-11, 2020-02-21, No
+Jarryd, Clean board, Make sure the board is clean, 2020-02-11, 2020-02-21, Yes
+Hishaam, Teach part-time, Teach the part-time students, 2020-02-13, 2020-02-23, No
